@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Francis Otia a.k.a. @Fransylite
-- 👀 I’m interested in Computer Programming (PHP, Javascript, Python, MySQL, HTML & CSS etc)
-- 🌱 I’m currently learning Laravel, a PHP framework
-- 💞️ I’m looking to collaborate on other developers around the world
+- Land Survey Technologist
+- 🌱 Proficient in GIS Mapping with QGIS
+- 3D Modelling
+- Data Science with python
+- 💞️ I’ll love to collaborate with other developers around the world
 - 📫 How to reach me: +234-81-6196-5054 or francisotia1995@gmail.com
 
 <!---
